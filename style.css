@@ -21,8 +21,8 @@ body div{
     background-color: #1F2937;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 0 340px;
+    justify-content: center;
+    gap: 450px;
 }
 
 .header div{
